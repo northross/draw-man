@@ -10,4 +10,4 @@
 
 ## Draw a Man word game
 
-<img src="https://imgur.com/TggZ7bo" width="800">
+<img src="https://imgur.com/TggZ7bo.png" width="800">
